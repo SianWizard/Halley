@@ -4,7 +4,8 @@ clc;
 clear;
 close all;
 
-%adding an additional comment
+%adding an additional comment from Visual Studio Code
+%adding a new comment from MATLAB itself
 
 addpath("Additional Functions\Ephemerides\");
 addpath("Additional Functions\Time converstion\");
